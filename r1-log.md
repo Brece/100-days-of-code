@@ -16,5 +16,9 @@ Learnt Lessons:
 - do less typos (variables, brackets)
 - isolate potential problems
 
+https://github.com/Brece/Tetris/blob/master/tetris.js
+
+
+
 
 ### R1D2 [August 29, Wednesday, 2019]
