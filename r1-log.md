@@ -9,8 +9,7 @@ I'm taking a break from FreeCodeCamp "Javascript Algorithms And Data Structures 
 I've used this tutorial as a guidance: https://www.codeexplained.org/2018/08/create-tetris-game-using-javascript.html
 
 Used Technology:
-- Javascript
-- HTML5
+- Javascript/HTML5
 
 Learnt Lessons:
 - do less typos (variables, brackets)
@@ -22,3 +21,14 @@ https://github.com/Brece/Tetris/blob/master/tetris.js
 
 
 ### R1D2 [August 29, Wednesday, 2019]
+Today I tried to build a To-Do app with a tutorial as a guidance. Eventhough I had to look up a lot of documentation I will come back and re-read it step by step. There was a lot of information about DOM manipulation and how to use JSON.
+
+Used Technology:
+- Javascript/HTML5/CSS
+
+Learnt Lessons:
+- DOM manipulation
+- JSON/local storage
+
+https://github.com/Brece/to-do-app
+
