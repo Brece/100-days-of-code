@@ -18,8 +18,6 @@ Learnt Lessons:
 https://github.com/Brece/Tetris/blob/master/tetris.js
 
 
-
-
 ### R1D2 [August 29, Wednesday, 2019]
 Today I tried to build a To-Do app with a tutorial as a guidance. Eventhough I had to look up a lot of documentation I will come back and re-read it step by step. There was a lot of information about DOM manipulation and how to use JSON.
 
@@ -32,3 +30,11 @@ Learnt Lessons:
 
 https://github.com/Brece/to-do-app
 
+
+
+### R1D3 [August 30, Friday, 2019]
+Today I went through the To-Do app from yesterday and read the documentations. I also refreshed my knowlegde of HTML/CSS and started the advanced section on https://learn.shayhowe.com/advanced-html-css/ and played around on a Test site.
+
+
+
+### R1D4 [August 31, Saturday, 2019]
