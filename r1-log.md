@@ -38,3 +38,8 @@ Today I went through the To-Do app from yesterday and read the documentations. I
 
 
 ### R1D4 [August 31, Saturday, 2019]
+Today I decided to stick to the "Full Stack JavaScript" track of The Odin Project. I may continue FreeCodeCamp in the future. But for now I realized that the handholding on FCC is counter-productive for my progression. 
+
+
+
+
