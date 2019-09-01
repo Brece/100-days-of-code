@@ -41,5 +41,9 @@ Today I went through the To-Do app from yesterday and read the documentations. I
 Today I decided to stick to the "Full Stack JavaScript" track of The Odin Project. I may continue FreeCodeCamp in the future. But for now I realized that the handholding on FCC is counter-productive for my progression. 
 
 
+### R1D5 [September 1, Sunday, 2019]
+Today I set up the Linux environment on my laptop, learnt some terminal commands and played around with it. Next I'm going to set up my Git account and learn the basics. Right now I'm lacking the necessary skills how to use the terminal and version control programs.
+https://www.theodinproject.com/courses/web-development-101
 
 
+### R1D6 [September 2, Monday, 2019]
