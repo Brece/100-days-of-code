@@ -47,3 +47,4 @@ https://www.theodinproject.com/courses/web-development-101
 
 
 ### R1D6 [September 2, Monday, 2019]
+As planned I spent my time today learning the workflow with Git and get more comfortable with the command line following "Web-Development-101" of The Odin Project.
