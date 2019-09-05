@@ -18,7 +18,7 @@ Learnt Lessons:
 https://github.com/Brece/Tetris/blob/master/tetris.js
 
 
-### R1D2 [August 29, Wednesday, 2019]
+### R1D2 [August 29, Thursday, 2019]
 Today I tried to build a To-Do app with a tutorial as a guidance. Eventhough I had to look up a lot of documentation I will come back and re-read it step by step. There was a lot of information about DOM manipulation and how to use JSON.
 
 Used Technology:
@@ -55,3 +55,11 @@ Today I progressed with The Odin Project Curriculum and finished the assignments
 
 
 ### R1D8 [September 4, Wednesday, 2019]
+Today I finished the (easy) assignment of https://www.theodinproject.com/courses/web-development-101/lessons/html-css?ref=lnav 
+I faced a few problems with floating nav-bar elements and learned a lot about Grid, Flexbox, align and justify contents, hover effects, adjusting margins/borders and using developer tool for quick adjustments. It was pretty basic stuff but I managed to find the solutions on my own instead of cheating with the source code. 
+
+https://github.com/Brece/google-homepage
+
+
+### R1D9 [September 5, Thursday, 2019]
+
