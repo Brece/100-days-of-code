@@ -62,4 +62,12 @@ https://github.com/Brece/google-homepage
 
 
 ### R1D9 [September 5, Thursday, 2019]
+Today I started the difficult version of the assignment "Google Homepage" using only HTML&CSS to look like this: 
+https://www.google.com/search?q=build+this+webpage
 
+I've got the feeling that my CSS code is kind of messy. But right now it "just have look similar". I might revisit my projects in the future and try to accomplish the outcome with less CSS code.
+
+https://github.com/Brece/google-homepage-difficult
+
+
+### R1D10 [September 6, Friday, 2019]
