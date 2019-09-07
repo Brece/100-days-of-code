@@ -82,3 +82,12 @@ Today I almost finished the project. Some minor details are still missing but I'
 The CSS Reset makes it a bit difficult to style everything from scratch. But this is the way I chose. Better learn it right now at the beginning than struggling in the future.
 
 ### R1D12 [September 8, Sunday, 2019]
+
+Today I finished the HTML/CSS assignment:
+https://www.google.com/search?q=build+this+webpage
+
+It's not 100% identical to the actual Google Search site but it's good enough for me. I've learned how important it is to have a structure (design) before the first line of code.
+
+https://github.com/Brece/google-homepage-difficult
+
+### R1D13 [September 9, Monday, 2019]
