@@ -91,3 +91,7 @@ It's not 100% identical to the actual Google Search site but it's good enough fo
 https://github.com/Brece/google-homepage-difficult
 
 ### R1D13 [September 9, Monday, 2019]
+Today I proceeded with The Odin Project and started the Javascript Basics-Section; doing the assignments and lots of reading.
+
+
+### R1D14 [September 10, Tuesday, 2019]
